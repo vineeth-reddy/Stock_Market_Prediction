@@ -1,4 +1,4 @@
-# Stock_Market_Prediction
+# Stock Market Analysis and Prediction
 
 In this notebook, I'll be analyzing stock market data of 6 top companies (Netflix, Apple, Amazon, Google, Meta and Tesla). I'll use yfinance to get stock information, and visualize different aspects of it using Seaborn and Matplotlib and also look at a few ways of analyzing the risk of a stock, based on its previous performance history. I'll also be predicting future stock prices through a Long Short Term Memory (LSTM) method!
 
